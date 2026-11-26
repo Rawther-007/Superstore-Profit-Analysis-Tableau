@@ -13,7 +13,7 @@ Use the department filter, then select a category and item to explore the connec
 
 [Open the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/mohammed.rawther/viz/ProfitAnalysisofDifferentDepartmentofaSuperstore/IsLeastProfitaleAlwaysUnprofitable)
 
-![Superstore Profit Analysis dashboard](https://public.tableau.com/views/ProfitAnalysisofDifferentDepartmentofaSuperstore/IsLeastProfitaleAlwaysUnprofitable.png?:showVizHome=no)
+![Superstore Profit Analysis dashboard](screenshots/superstore-profit-analysis.jpg)
 
 ## Tools
 
